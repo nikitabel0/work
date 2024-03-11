@@ -576,6 +576,11 @@ html{
 
 }
 
+.f{
+    text-decoration: none;
+    color: black;
+}
+
 
 .tg{
     right: 120px;
