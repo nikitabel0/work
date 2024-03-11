@@ -620,3 +620,8 @@ html{
 html{
     scroll-behavior: smooth;
 }
+
+.fg{
+    position: relative;
+    bottom: 8px;
+}
